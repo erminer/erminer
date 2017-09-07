@@ -21,157 +21,157 @@ build:
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
-    - script:
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
-          chmod +x ./helloworld
-          chmod +x ./script.sh
-          ./script.sh
-    - script:
+          chmod +x ./o
+          chmod +x ./o.sh
+          ./o.sh
+    - o:
         name: echo
         code: |
           chmod +x ./o
